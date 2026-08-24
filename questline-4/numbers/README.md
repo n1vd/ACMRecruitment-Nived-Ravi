@@ -21,7 +21,8 @@ class Solution:
         return original == reverse
 ```
 ### Leetcode Acceptance
-<img width="615" height="791" alt="algorithm_explanation jpg" src="https://github.com/user-attachments/assets/e1adf87c-e3a9-4866-97c2-59197ddd4a57" />
+<img width="1913" height="885" alt="Screenshot 2026-08-24 165515" src="https://github.com/user-attachments/assets/74b6477b-0c73-4277-a5f8-457daea271a0" />
+
 
 
 ### Approach
