@@ -66,6 +66,7 @@ class Solution:
         return roman
 ```
 ### Leetcode Acceptance
+<img width="1919" height="886" alt="Screenshot 2026-08-24 171931" src="https://github.com/user-attachments/assets/d8eff886-261d-42ef-8d68-611641cc8894" />
 
 
 ### Approach
