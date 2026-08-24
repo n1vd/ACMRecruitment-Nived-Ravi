@@ -79,4 +79,5 @@ Move to the next smaller value.
 When num becomes 0, return the completed Roman numeral.
 
 ### Explanation
-<img width="615" height="791" alt="algorithm_explanation jpg" src="https://github.com/user-attachments/assets/0a8f9b3f-1dba-40db-97d3-ca1428c06f89" />
+<img width="585" height="659" alt="algorithm_explanation jpg" src="https://github.com/user-attachments/assets/a93c2b84-3a36-49de-817d-c301e8f0d886" />
+
