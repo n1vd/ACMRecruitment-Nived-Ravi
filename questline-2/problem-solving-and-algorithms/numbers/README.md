@@ -35,7 +35,9 @@ Finally, I compare the reversed number with the original number.
 
 If both are equal, the number is a palindrome.
 
-<img width="615" height="791" alt="image" src="https://github.com/user-attachments/assets/d2a12869-8bf1-446b-aa23-3e75d53dd10f" />
+### Explanation
+<img width="585" height="659" alt="algorithm_explanation jpg" src="https://github.com/user-attachments/assets/26acbda8-3491-441c-bc13-31b6151034f4" />
+
 
 
 ## 2. Integer to Roman
@@ -74,7 +76,7 @@ Keep repeating this using the while loop until that value no longer fits.
 Move to the next smaller value.
 When num becomes 0, return the completed Roman numeral.
 
-<img width="585" height="659" alt="image" src="https://github.com/user-attachments/assets/b54c3d29-5f67-4e61-b55f-57e7d2dae10b" />
-
+### Explanation
+<img width="615" height="791" alt="algorithm_explanation jpg" src="https://github.com/user-attachments/assets/0a8f9b3f-1dba-40db-97d3-ca1428c06f89" />
 
 
