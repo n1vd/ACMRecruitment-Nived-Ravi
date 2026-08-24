@@ -38,7 +38,8 @@ Finally, I compare the reversed number with the original number.
 If both are equal, the number is a palindrome.
 
 ### Explanation
-<img width="585" height="659" alt="algorithm_explanation jpg" src="https://github.com/user-attachments/assets/26acbda8-3491-441c-bc13-31b6151034f4" />
+<img width="585" height="659" alt="algorithm_explanation jpg" src="https://github.com/user-attachments/assets/190c7975-0775-4625-8c43-31a919a27bc6" />
+
 
 
 
