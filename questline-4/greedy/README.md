@@ -36,6 +36,9 @@ class Solution:
 
         return True
 ```
+### LeetCode Acceptance
+<img width="1908" height="883" alt="Screenshot 2026-08-24 151549" src="https://github.com/user-attachments/assets/526a46b9-9717-45e8-941b-7fd1646d2966" />
+
 ### Approach
 
 I keep count of the $5 and $10 bills available.
@@ -75,6 +78,9 @@ class Solution:
 
         return child
 ```
+### LeetCode Acceptance
+<img width="1919" height="888" alt="image" src="https://github.com/user-attachments/assets/477028f4-58a4-496b-b24b-7181a8bfd8ee" />
+
 ### Approach
 
 I first sort the children's greed values and the cookie sizes.
