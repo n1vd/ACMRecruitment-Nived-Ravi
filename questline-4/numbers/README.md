@@ -21,7 +21,8 @@ class Solution:
         return original == reverse
 ```
 ### Leetcode Acceptance
-<img width="1913" height="885" alt="image" src="https://github.com/user-attachments/assets/1c3c972f-fd19-4caa-aa39-431d4afb6aed" />
+<img width="615" height="791" alt="algorithm_explanation jpg" src="https://github.com/user-attachments/assets/e1adf87c-e3a9-4866-97c2-59197ddd4a57" />
+
 
 ### Approach
 I first store the original number so that I can compare it later.
@@ -62,7 +63,7 @@ class Solution:
         return roman
 ```
 ### Leetcode Acceptance
-<img width="1919" height="886" alt="image" src="https://github.com/user-attachments/assets/49caed6f-5795-44a0-ba62-209bd0392806" />
+
 
 ### Approach
 Store the Roman number values in values and their matching Roman symbols in symbols.
